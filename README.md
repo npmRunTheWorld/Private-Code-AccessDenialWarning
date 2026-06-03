@@ -1,11 +1,24 @@
-# Private-Code-AccessDenialWarning
-Hello there,
+# 🔒 Private Repository — Access Restricted
 
-Welcome to my GitHub page. You've stumbled upon a repository created to safeguard some professional projects or personal projects I've been diligently working on, along with their original source code. While some of these projects may be listed on my resume, it's important to note that not all source code is intended for public consumption due to NDAs and other external factors.
+> This repository is intentionally private. Its source code is not publicly available.
 
-If you're here seeking more information about a specific project, I encourage you to reach out to me via email. I'll be more than happy to provide you with further details.
+---
 
-Thank you for your understanding and respecting the privacy of my projects.
+Hello, and welcome.
 
-Best regards,
-Faisal
+You've reached a repository that houses one of my **professional or personal projects** along with its original source code. Some of these projects may appear on my resume or portfolio — however, the underlying code is kept private due to **NDAs, client agreements, and other confidentiality obligations**.
+
+I take the integrity of these agreements seriously, which is why the implementation details remain closed.
+
+### Looking for more?
+
+If you're a **recruiter, hiring manager, or collaborator** interested in a specific project, I'd be glad to walk you through it. I can share architecture overviews, technical write-ups, demos, or sanitized code samples where permitted.
+
+**[mda.faisal95@gmail.com](mailto:mda.faisal95@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/md-a-faisal-2b3070139)**
+
+---
+
+Thank you for respecting the confidentiality of these projects.
+
+**— Faisal**
