@@ -2,8 +2,13 @@
 
 > This repository is intentionally private. Its source code is not publicly available.
 
-![Access Denied](https://github.com/npmRunTheWorld/Private-Code-AccessDenialWarning/blob/main/Isolate%20Wait%20For%20It%20GIF%20by%20Woodblock.gif
-
+<table align="center">
+    <tr style="height: 100%; display: flex;">
+          <td style="display: flex; width: 50%;">
+            <img src="[https://github.com/acej0k3r/acej0k3r/blob/main/videos/coderGreen.gif](https://github.com/npmRunTheWorld/Private-Code-AccessDenialWarning/blob/main/Isolate%20Wait%20For%20It%20GIF%20by%20Woodblock.gif)" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
+        </td>
+    </tr>
+</table>
 ---
 
 Hello, and welcome.
