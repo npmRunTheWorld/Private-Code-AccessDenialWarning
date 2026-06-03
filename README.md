@@ -2,7 +2,7 @@
 
 > This repository is intentionally private. Its source code is not publicly available.
 
-https://github.com/npmRunTheWorld/Private-Code-AccessDenialWarning/blob/main/Isolate%20Wait%20For%20It%20GIF%20by%20Woodblock.gif
+![Access Denied](https://github.com/npmRunTheWorld/Private-Code-AccessDenialWarning/blob/main/Isolate%20Wait%20For%20It%20GIF%20by%20Woodblock.gif
 
 ---
 
